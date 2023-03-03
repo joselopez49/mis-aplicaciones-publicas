@@ -1,3 +1,5 @@
 1.-miprimerarchivolocalenelrepositorio
 2.-repitiendo-una-segunda-opcionopción 
 3.-esta-linea-va-a-dar-error-por-no-ser-lo-mismo
+4.-esta-tercera-linea-es-la-del-error
+
